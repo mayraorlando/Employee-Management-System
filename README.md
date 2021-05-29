@@ -1,3 +1,8 @@
+
+https://user-images.githubusercontent.com/44445250/120081998-6fe37a00-c08e-11eb-8715-e58be3a958e2.mp4
+
+![mysql images](https://user-images.githubusercontent.com/44445250/120082000-7114a700-c08e-11eb-9647-e5f434745f2f.jpg)
+![images](https://user-images.githubusercontent.com/44445250/120082003-7245d400-c08e-11eb-9f00-73155bbdf0bb.jpg)
 # Employee-Management-System
  
  The Employee management system is a CLI application for building and maintaining company employees. This application was built using mysql. All of the dependencies must be installed before using.
